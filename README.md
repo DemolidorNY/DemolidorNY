@@ -23,7 +23,7 @@ Sou Estudante de Programação e Busco através de projetos e Muito estudos Busc
 
  <div id="badges">
    
-  <a href link = "https://www.linkedin.com/in/fernando-santana-743a31267/">
+  <a link = "https://www.linkedin.com/in/fernando-santana-743a31267/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
    
