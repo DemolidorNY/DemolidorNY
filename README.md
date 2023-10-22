@@ -1,10 +1,9 @@
 <img src="gif-para-perfil.gif" width="300px" align = "right"> 
 
 # 🎓Seja bem Vindos (a)
-Sou Estudante de Programação e Busco através de projetos e Muito estudos Buscar minha Vaga no mundo Digital.
+Sou Programador em Constante evolução para a humanidade!
 ---
 
--❤Estudante de Programação
 
 -💙 em constante evolução 
 
